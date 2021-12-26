@@ -1,0 +1,10 @@
+div.o,
+div.x {
+  position: relative;
+  margin: auto;
+  margin-top: 10px;
+  color: black;
+  width: 70%;
+  height: 70%;
+  font-size: 2.5rem;
+}
