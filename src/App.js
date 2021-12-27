@@ -139,6 +139,7 @@ function App() {
       const moves = moveNum;
       moves.pop();
       setMoveNum([...moves]);
+      setPlayer(prevValue=>!prevValue);
     }
   };
 
